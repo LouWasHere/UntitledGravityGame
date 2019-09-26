@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1c03cced-ac10-470c-813d-c83c4973ff15",
+            "Value": {
+                "id": "8af658ff-52bb-4440-8295-2516d16cb25e",
+                "resourcePath": "objects\\o_player_dash_effect\\o_player_dash_effect.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "253f078f-91b6-423f-ba2a-09072e353542",
             "Value": {
                 "id": "797bfe93-d732-4485-9358-a2fd7bde90ca",
@@ -76,6 +84,14 @@
                 "id": "98a75a36-95f0-4907-a8f5-a266b1e65e05",
                 "resourcePath": "views\\2e873844-68a9-4c50-9890-c52f5f771c57.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2ef91b6c-2c82-4dc4-b5ab-76d0395b1a87",
+            "Value": {
+                "id": "b7b123a0-f3d6-441c-9b0f-dba7c9c3c8ad",
+                "resourcePath": "objects\\o_player_dash_effect_invirted\\o_player_dash_effect_invirted.yy",
+                "resourceType": "GMObject"
             }
         },
         {

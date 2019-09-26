@@ -5,3 +5,7 @@ walksp = 4;
 grvBearing = 180;
 gravDir = 0;
 flipDelay = 0;
+canMove = true;
+dashFrames = 0;
+dashUnlocked = true;
+flipUnlocked = true;
